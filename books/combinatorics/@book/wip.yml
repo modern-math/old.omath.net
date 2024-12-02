@@ -1,0 +1,33 @@
+todo:
+    - goal: Введение
+      done: true
+
+    - goal: Прямой перебор
+      done: true
+
+    - goal: Правило сложения
+      done: true
+
+    - goal: Правило умножения
+      done: true
+
+    - goal: Факториал
+      done: true
+
+    - goal: Размещения
+      done: true
+
+    - goal: Перестановки
+      done: true
+
+    - goal: Сочетания
+      done: true
+
+    - goal: Бином Ньютона
+      done: true
+
+    - goal: Формулы комбинаторики
+      done: true
+
+    - goal: Треугольник Паскаля
+    - goal: Задачи о беспорядках

@@ -1,0 +1,43 @@
+combinatorics-book:
+    -   title:  20. Перестановки
+    -   title:  21. Лингвистические проблемы
+    -   title:  22. Перестановки с повторениями
+    -   title:  153. Анаграммы
+
+wiki:
+    -   title:  Кольца Сатурна
+        link:   https://w.wiki/8oRx
+
+    -   title:  Анаграмма
+        link:   https://w.wiki/8mJQ
+
+brilliant:
+    -   title:  Permutations
+        link:   https://brilliant.org/wiki/permutations/
+
+    -   title:  Permutations with Repetition
+        link:   https://brilliant.org/wiki/permutations-with-repetition/
+
+dzen:
+    -   title:  Загадки Галилея и их креативные разгадки Кеплером
+        desc:   Блог "Книгсовет"
+        link:   https://dzen.ru/a/YUL8isSqKldyJTgO
+
+linda-hall-library:
+    -   title:  Christiaan Huygens
+        desc:   Scientist of the Day
+        link:   https://www.lindahall.org/about/news/scientist-of-the-day/christiaan-huygens-2/
+
+mentalfloss:
+    -   title:  How A Misinterpreted Anagram Predicted The Moons of Mars
+        desc:   Paul Anthony Jones
+        link:   https://www.mentalfloss.com/article/87433/how-misinterpreted-anagram-predicted-moons-mars
+
+yaklass:
+    -   title:  Перестановки. Перестановки без повторений
+        desc:   Начальные сведения комбинаторики, 11 класс
+        link:   https://www.yaklass.ru/p/algebra/11-klass/nachalnye-svedeniia-kombinatoriki-9340/perestanovki-perestanovki-bez-povtorenii-9343
+
+math-manual:
+    -   title:  Примеры и задачи на перестановки
+        desc:   Глава XI

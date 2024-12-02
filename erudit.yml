@@ -1,0 +1,39 @@
+url: https://omath.ru
+
+language: ru
+
+links:
+    src:
+        label: Исходный код
+        link: https://github.com/open-math
+    editor:
+        label: Редактор
+        link: https://editor.omath.net
+        icon: pen-nib
+    vk:
+        label: Группа ВКонтакте
+        link: https://vk.com/omath
+        icon: vk
+    tg:
+        label: Telegram канал
+        link: https://t.me/omath_official
+        icon: telegram
+
+books:
+    Основы математики: basics
+
+    Базовая математика:
+        Язык математики:    lang-of-math
+        Основы логики:      base-logic
+        Алгебра:            algebra
+        Комбинаторика:      combinatorics
+        Занимательное:      applications
+
+    Экзамены:
+        Общее по экзаменам: exam/common
+        ЕГЭ. База: exam/ege-base
+        ЕГЭ. Профиль: exam/ege
+        ОГЭ: exam/oge
+        ОГЭ. Физика: exam/oge-physics
+
+    Общая физика: physics
