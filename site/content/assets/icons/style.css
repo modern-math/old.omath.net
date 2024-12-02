@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'OMath-Content-Icons';
+  src:
+    url('fonts/OMath-Content-Icons.ttf?mntpg8') format('truetype'),
+    url('fonts/OMath-Content-Icons.woff?mntpg8') format('woff'),
+    url('fonts/OMath-Content-Icons.svg?mntpg8#OMath-Content-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="ic-"], [class*=" ic-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'OMath-Content-Icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ic-sitemap:before {
+  content: "\e910";
+}
+.ic-up-right-from-square:before {
+  content: "\e90f";
+}
+.ic-info:before {
+  content: "\e90e";
+}
+.ic-arrows-rotate:before {
+  content: "\e90d";
+}
+.ic-clone:before {
+  content: "\e90c";
+}
+.ic-important-triangle:before {
+  content: "\e90b";
+}
+.ic-lightbulb:before {
+  content: "\e908";
+}
+.ic-check:before {
+  content: "\e909";
+}
+.ic-bars:before {
+  content: "\e90a";
+}
+.ic-eye:before {
+  content: "\e907";
+}
+.ic-image:before {
+  content: "\e906";
+}
+.ic-cube:before {
+  content: "\e905";
+}
+.ic-gavel:before {
+  content: "\e904";
+}
+.ic-pen:before {
+  content: "\e903";
+}
+.ic-exclamation:before {
+  content: "\e901";
+}
+.ic-chevron-up:before {
+  content: "\e902";
+}
+.ic-link:before {
+  content: "\e900";
+}

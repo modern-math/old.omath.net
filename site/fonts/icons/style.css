@@ -1,0 +1,183 @@
+@font-face {
+  font-family: 'Erudit-Icons';
+  src:  url('fonts/Erudit-Icons.eot?c29kx6');
+  src:  url('fonts/Erudit-Icons.eot?c29kx6#iefix') format('embedded-opentype'),
+    url('fonts/Erudit-Icons.ttf?c29kx6') format('truetype'),
+    url('fonts/Erudit-Icons.woff?c29kx6') format('woff'),
+    url('fonts/Erudit-Icons.svg?c29kx6#Erudit-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="i-"], [class*=" i-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Erudit-Icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.i-shuffle:before {
+  content: "\e932";
+}
+.i-star-of-life:before {
+  content: "\e933";
+}
+.i-star:before {
+  content: "\e931";
+}
+.i-turn-up:before {
+  content: "\e930";
+}
+.i-message-plus:before {
+  content: "\e92f";
+}
+.i-telegram:before {
+  content: "\e92d";
+}
+.i-vk:before {
+  content: "\e92e";
+}
+.i-file-pen:before {
+  content: "\e92c";
+}
+.i-building:before {
+  content: "\e92b";
+}
+.i-circle-question:before {
+  content: "\e92a";
+}
+.i-user-plus:before {
+  content: "\e929";
+}
+.i-plus:before {
+  content: "\e928";
+}
+.i-graduation-cap:before {
+  content: "\e927";
+}
+.i-folder-open:before {
+  content: "\e900";
+}
+.i-folder:before {
+  content: "\e901";
+}
+.i-arrow-left:before {
+  content: "\e902";
+}
+.i-arrow-right:before {
+  content: "\e903";
+}
+.i-omath:before {
+  content: "\e904";
+}
+.i-warning:before {
+  content: "\e905";
+}
+.i-up-right-from-square:before {
+  content: "\e906";
+}
+.i-xmark:before {
+  content: "\e907";
+}
+.i-compress:before {
+  content: "\e908";
+}
+.i-expand:before {
+  content: "\e909";
+}
+.i-aside-open:before {
+  content: "\e90a";
+}
+.i-sitemap:before {
+  content: "\e90b";
+}
+.i-file-lines:before {
+  content: "\e90c";
+}
+.i-menu-ellipsis-ver:before {
+  content: "\e90d";
+}
+.i-magnifying-glass:before {
+  content: "\e90e";
+}
+.i-globe:before {
+  content: "\e90f";
+}
+.i-menu:before {
+  content: "\e910";
+}
+.i-sun-and-moon:before {
+  content: "\e911";
+}
+.i-moon:before {
+  content: "\e912";
+}
+.i-sun:before {
+  content: "\e913";
+}
+.i-link:before {
+  content: "\e914";
+}
+.i-code:before {
+  content: "\e915";
+}
+.i-comments:before {
+  content: "\e916";
+}
+.i-donate:before {
+  content: "\e917";
+}
+.i-house:before {
+  content: "\e918";
+}
+.i-topic-practicum:before {
+  content: "\e919";
+}
+.i-topic-summary:before {
+  content: "\e91a";
+}
+.i-users:before {
+  content: "\e91b";
+}
+.i-book:before {
+  content: "\e91c";
+}
+.i-topic-many:before {
+  content: "\e91d";
+}
+.i-hashtag:before {
+  content: "\e91e";
+}
+.i-gavel:before {
+  content: "\e91f";
+}
+.i-pen-nib:before {
+  content: "\e920";
+}
+.i-exclamation:before {
+  content: "\e921";
+}
+.i-cube:before {
+  content: "\e922";
+}
+.i-chevron-up:before {
+  content: "\e923";
+}
+.i-eye:before {
+  content: "\e924";
+}
+.i-check:before {
+  content: "\e925";
+}
+.i-lightbulb:before {
+  content: "\e926";
+}
